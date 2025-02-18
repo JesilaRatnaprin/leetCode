@@ -1,2 +1,2 @@
 # leetCode
-My leetcode repository
+I'm currently using this repository to practice my leetcode exercises
